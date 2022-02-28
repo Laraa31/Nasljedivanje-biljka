@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\bin\Debug\NasljedivanjeBiljke.exe.config
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\bin\Debug\NasljedivanjeBiljke.exe
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\bin\Debug\NasljedivanjeBiljke.pdb
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\obj\Debug\NasljedivanjeBiljke.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\obj\Debug\NasljedivanjeBiljke.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\obj\Debug\NasljedivanjeBiljke.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\obj\Debug\NasljedivanjeBiljke.exe
+C:\Users\LaPeM\source\repos\NasljedivanjeBiljke\NasljedivanjeBiljke\obj\Debug\NasljedivanjeBiljke.pdb
